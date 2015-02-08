@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: Home
+  url: / 
+
+- title: Short CV
+  url: /short-CV.html
+
+- title: Publications
+  url: /publications.html
+
+- title: Projects
+  url: /projects.html
+
+- title: Contact
+  url: /contactme.html
+
