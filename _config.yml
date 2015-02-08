@@ -2,7 +2,7 @@
 
 title:            Pavel G. Zaykov
 locale:           en_US
-url: http://zaykov.github.io/web-page
+url: http://pgzaykov.github.io/web-page
 
 
 # Jekyll configuration
@@ -53,7 +53,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-  linkedin: zaykov
+  linkedin: pgzaykov
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
