@@ -28,8 +28,8 @@ PhD thesis, Delft University of Technology, 2014.
 T. Ungerer, C. Bradatsch, M. Frieb, F. Kluge, J. Mische, A. Stegmeier, R. Jahr, M. Gerdes, P. Zaykov, L. Matusova, Z. J. J. Li, Z. Petrov, B. Böddeker, S. Kehr, H. Regler, A. Hugl, C. Rochange, H. Ozaktas, H. Cassé, A. Bonenfant, P. Sainrat, N. Lay, D. George, I. Broster, E. Quinones, M. Panic, J. Abella, C. Hernandez, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka <br>
 In Proc. Workshop on High-performance and Real-time Embedded Systems (HiRES), January 2015.
 
-1. `**Hardware Task-Status Manager for an RTOS with FIFO Communication**`
-<a href="XXXX" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+1. **Hardware Task-Status Manager for an RTOS with FIFO Communication**
+<a href="http://dx.doi.org/10.1109/ReConFig.2014.7032527" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2014-HWTSM.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, G. Kuzmanov, A. Molnos, and K. Goossens<br>
