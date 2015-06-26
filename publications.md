@@ -21,7 +21,7 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
-1. **Case Study: Performance and WCET Analysis for Parallelised Avionic Applications with ODC^2**
+1. **Case Study: Performance and WCET Analysis for Parallelised Avionic Applications with ODC2**
 <a target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2015-indin.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
@@ -33,7 +33,7 @@ In Proc. Int. Conference on Industrial Informatics (INDIN), July 2015.
 <a href="http://www.cister.isep.ipp.pt/hires2015/Experiences_and_Results_of_Parallelisation_of_Industrial_Hard_Real-time_Applications_for_the_parMERASA_Multi-core.pdf" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2015-hires.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-T. Ungerer, C. Bradatsch, M. Frieb, F. Kluge, J. Mische, A. Stegmeier, R. Jahr, M. Gerdes, P. Zaykov, L. Matusova, Z. J. J. Li, Z. Petrov, B. Böddeker, S. Kehr, H. Regler, A. Hugl, C. Rochange, H. Ozaktas, H. Cassé, A. Bonenfant, P. Sainrat, N. Lay, D. George, I. Broster, E. Quinones, M. Panic, J. Abella, C. Hernandez, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka <br>
+T. Ungerer, C. Bradatsch, M. Frieb, F. Kluge, J. Mische, A. Stegmeier, R. Jahr, M. Gerdes, P. Zaykov, L. Matusova, Z. J. J. Li, Z. Petrov, B. Böddeker, S. Kehr, H. Regler, A. Hugl, C. Rochange, H. Ozaktas, H. Cassé, A. Bonenfant, P. Sainrat, N. Lay, D. George, I. Broster, E. Quiñones, M. Panic, J. Abella, C. Hernandez, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka <br>
 In Proc. Workshop on High-performance and Real-time Embedded Systems (HiRES), January 2015.
 
 1. **Hardware Task-Status Manager for an RTOS with FIFO Communication**
@@ -70,7 +70,7 @@ In Proc. Workshop on High-performance and Real-time Embedded Systems (HiRES), Ja
 <a href="http://dx.doi.org/10.1109/DSD.2013.46" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2013-dsd-parMERASA.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-T. Ungerer, C. Bradatsch, M. Gerdes, F. Kluge, R. Jahr, J. Mische, J. Fernandes, P. G. Zaykov, Z. Petrov, B. Boddeker, S. Kehr, H. Regler, A.  Hugl, C. Rochange, H. Ozaktas, H. Casse, A. Bonenfant, P. Sainrat, I. Broster, N. Lay, D. George, E. Quinones, M. Panic, J. Abella, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka<br>
+T. Ungerer, C. Bradatsch, M. Gerdes, F. Kluge, R. Jahr, J. Mische, J. Fernandes, P. G. Zaykov, Z. Petrov, B. Böddeker, S. Kehr, H. Regler, A.  Hugl, C. Rochange, H. Ozaktas, H. Cassé, A. Bonenfant, P. Sainrat, I. Broster, N. Lay, D. George, E. Quiñones, M. Panic, J. Abella, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka<br>
 In Proc. Euromicro Conference on Digital System Design (DSD), September 2013.
 
 1. **Run-time slack distribution for real-time data-flow applications on embedded MPSoC**
