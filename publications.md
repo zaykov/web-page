@@ -21,6 +21,14 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
+1. **Case Study: Performance and WCET Analysis for Parallelised Avionic Applications with ODC^2**
+<a target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2015-indin.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+A. Pyka, P. G. Zaykov, H. Cassé, H. Ozaktas, C. Rochange, and S. Uhrig<br>
+In Proc. Int. Conference on Industrial Informatics (INDIN), July 2015.
+
+
 1. **Experiences and Results of Parallelisation of Industrial Hard Real-time Applications for the parMERASA Multi-core**
 <a href="http://www.cister.isep.ipp.pt/hires2015/Experiences_and_Results_of_Parallelisation_of_Industrial_Hard_Real-time_Applications_for_the_parMERASA_Multi-core.pdf" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2015-hires.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
