@@ -21,12 +21,26 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
+1. **RTOS Acceleration in an MPSoC with Reconfigurable Hardware**
+<a target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2016-caee.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. G. Zaykov, G. Kuzmanov, A. Molnos, and K. Goossens<br>
+In the Elsevier Computers & Electrical Engineering (CAEE), 2016.
+
+1. **Parallelizing Industrial Hard Real-time Applications for the parMERASA Multi-core**
+<a target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2016-tecs.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+T. Ungerer, C. Bradatsch, M. Frieb, F. Kluge, J. Mische, A. Stegmeier, R. Jahr, M. Gerdes, P. Zaykov, L. Matusova, Z. J. Jia Li, Z. Petrov, B. Boddeker, S. Kehr, H. Regler, A. Hugl, C. Rochange, H. Ozaktas, H. Casse, A. Bonenfant, P. Sainrat, N. Lay, D. George, I. Broster, E. Quinones, M. Panic, J. Abella, C. Hernandez, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka<br>
+In the ACM Transactions on Embedded Computing Systems (TECS), 2016.
+
 1. **Case Study: Performance and WCET Analysis for Parallelised Avionic Applications with ODC2**
 <a href="http://dx.doi.org/10.1109/INDIN.2015.7281939" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2015-indin.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 A. Pyka, P. G. Zaykov, H. Cassé, H. Ozaktas, C. Rochange, and S. Uhrig<br>
-In Proc. Int. Conference on Industrial Informatics (INDIN), July 2015.
+In proc. of the Int. Conference on Industrial Informatics (INDIN), July 2015.
 
 
 1. **Experiences and Results of Parallelisation of Industrial Hard Real-time Applications for the parMERASA Multi-core**
@@ -34,21 +48,21 @@ In Proc. Int. Conference on Industrial Informatics (INDIN), July 2015.
 <a href="{{ site.url }}/publications/bib/zaykov-2015-hires.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 T. Ungerer, C. Bradatsch, M. Frieb, F. Kluge, J. Mische, A. Stegmeier, R. Jahr, M. Gerdes, P. Zaykov, L. Matusova, Z. J. J. Li, Z. Petrov, B. Böddeker, S. Kehr, H. Regler, A. Hugl, C. Rochange, H. Ozaktas, H. Cassé, A. Bonenfant, P. Sainrat, N. Lay, D. George, I. Broster, E. Quiñones, M. Panic, J. Abella, C. Hernandez, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka <br>
-In Proc. Workshop on High-performance and Real-time Embedded Systems (HiRES), January 2015.
+In proc. of the Workshop on High-performance and Real-time Embedded Systems (HiRES), January 2015.
 
 1. **Hardware Task-Status Manager for an RTOS with FIFO Communication**
 <a href="http://dx.doi.org/10.1109/ReConFig.2014.7032527" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2014-HWTSM.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2014-reconfig.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, G. Kuzmanov, A. Molnos, and K. Goossens<br>
-In Proc. Int. Conference on Reconfigurable Computing and FPGAs (ReConFig), December 2014.
+In proc. of the Int. Conference on Reconfigurable Computing and FPGAs (ReConFig), December 2014.
 
 1. **Parallel many-core avionics systems**
 <a href="http://dx.doi.org/10.1145/2656045.2656063" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2014-EMSOFT.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2014-emsoft.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 M. Panić, E. Quiñones, P. G. Zaykov, C. Hernandez, J. Abella, and F. J. Cazorla <br>
-In Proc. Int. Conference on Embedded Software (EMSOFT), October 2014.
+In proc. of the Int. Conference on Embedded Software (EMSOFT), October 2014.
 
 
 1. **Effects of structured parallelism by parallel design patterns on embedded hard real-time systems**
@@ -56,7 +70,7 @@ In Proc. Int. Conference on Embedded Software (EMSOFT), October 2014.
 <a href="{{ site.url }}/publications/bib/zaykov-2014-rtcsa.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 R. Jahr, M. Gerdes, T. Ungerer, H. Ozaktas, C. Rochange, and P. G. Zaykov<br>
-In Proc. Embedded and Real-Time Computing Systems and Applications (RTCSA), August 2014.
+In proc. of the Embedded and Real-Time Computing Systems and Applications (RTCSA), August 2014.
 
 
 1. **Case Study: On-Demand Coherent Cache for Avionic Applications**
@@ -64,49 +78,49 @@ In Proc. Embedded and Real-Time Computing Systems and Applications (RTCSA), Augu
 <a href="{{ site.url }}/publications/bib/zaykov-2014-hires.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 A. Pyka, M. Rohde, P. G. Zaykov, and S. Uhrig<br>
-In Proc. Workshop on High-performance and Real-time Embedded Systems (HiRES), January 2014.
+In proc. of the Workshop on High-performance and Real-time Embedded Systems (HiRES), January 2014.
 
 1. **parMERASA -- Multi-core Execution of Parallelised Hard Real-Time Applications Supporting Analysability**
 <a href="http://dx.doi.org/10.1109/DSD.2013.46" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2013-dsd-parMERASA.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 T. Ungerer, C. Bradatsch, M. Gerdes, F. Kluge, R. Jahr, J. Mische, J. Fernandes, P. G. Zaykov, Z. Petrov, B. Böddeker, S. Kehr, H. Regler, A.  Hugl, C. Rochange, H. Ozaktas, H. Cassé, A. Bonenfant, P. Sainrat, I. Broster, N. Lay, D. George, E. Quiñones, M. Panic, J. Abella, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka<br>
-In Proc. Euromicro Conference on Digital System Design (DSD), September 2013.
+In proc. of the Euromicro Conference on Digital System Design (DSD), September 2013.
 
 1. **Run-time slack distribution for real-time data-flow applications on embedded MPSoC**
 <a href="http://dx.doi.org/10.1109/DSD.2013.15" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2013-dsd-timestamps.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, G. K. Kuzmanov, A. M. Molnos, and K. G. W. Goossens<br>
-In Proc. Euromicro Conference on Digital System Design (DSD), September 2013.
+In proc. of the Euromicro Conference on Digital System Design (DSD), September 2013.
 
 1. **An aspect-oriented approach for designing safety-critical systems**
 <a href="http://dx.doi.org/10.1109/AERO.2013.6497184" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2013-aeroconf.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 Z. Petrov, P. G. Zaykov, J. P. Cardoso, J. G. F. Coutinho, P. C. Diniz, and W. Luk<br>
-In Proc. Aerospace Conference (AeroConf), March 2013.
+In proc. of the Aerospace Conference (AeroConf), March 2013.
 
 1. **Multithreading on Reconfigurable Hardware: an Architectural Approach**
 <a href="http://dx.doi.org/10.1016/j.micpro.2012.05.005" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2012-micpro.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov and G. K. Kuzmanov<br>
-Microprocessors and Microsystems (MICPRO), May 2012.
+In the Elsevier Microprocessors and Microsystems (MICPRO), May 2012.
 
 1. **Architectural Support for Multithreading on Reconfigurable Hardware**
 <a href="http://dx.doi.org/10.1007/978-3-642-19475-7_38" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2011-arc.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov and G.K. Kuzmanov<br>
-In Proc. Applied Reconfigurable Computing (ARC), March 2011.
+In proc. of the Applied Reconfigurable Computing conference (ARC), March 2011.
  
 1. **Reconfigurable Multithreading Architectures: A Survey**
 <a href="http://dx.doi.org/10.1007/978-3-642-03138-0_29" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2009-samos.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, G.K. Kuzmanov, and G.N. Gaydadjiev<br>
-In Proc. Workshop on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS), July 2009.
+In proc. of the Workshop on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS), July 2009.
 
 1. **State-of-the-art Reconfigurable Multithreading Architectures**
 <a href="http://ce-publications.et.tudelft.nl/publication/view/id/361" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
@@ -120,4 +134,4 @@ CE technical report, 2009.
 <a href="{{ site.url }}/publications/bib/zaykov-2007-CompSysTech.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov <br>
-In Proc. Computer Systems and Technologies (CompSysTech), June 2007.
+In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
