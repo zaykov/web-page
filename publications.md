@@ -22,7 +22,7 @@ PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
 1. **Case Study: Performance and WCET Analysis for Parallelised Avionic Applications with ODC2**
-<a target="http://dx.doi.org/10.1109/INDIN.2015.7281939"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="http://dx.doi.org/10.1109/INDIN.2015.7281939" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2015-indin.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 A. Pyka, P. G. Zaykov, H. Cassé, H. Ozaktas, C. Rochange, and S. Uhrig<br>
