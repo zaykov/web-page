@@ -4,14 +4,14 @@
   url: / 
 
 - title: Short CV
-  url: /short-CV.html
+  url: /short-CV/index.html
 
 - title: Publications
-  url: /publications.html
+  url: /publications/index.html
 
 #- title: Projects
-#  url: /projects.html
+#  url: /projects/index.html
 
 - title: Contact
-  url: /contactme.html
+  url: /contactme/index.html
 
