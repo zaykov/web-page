@@ -22,14 +22,14 @@ PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
 1. **RTOS Acceleration in an MPSoC with Reconfigurable Hardware**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="" target="http://dx.doi.org/10.1016/j.compeleceng.2016.03.016"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2016-caee.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, G. Kuzmanov, A. Molnos, and K. Goossens<br>
 In the Elsevier Computers & Electrical Engineering (CAEE), 2016.
 
 1. **Parallelizing Industrial Hard Real-time Applications for the parMERASA Multi-core**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="" target="http://dx.doi.org/10.1145/2910589"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2016-tecs.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 T. Ungerer, C. Bradatsch, M. Frieb, F. Kluge, J. Mische, A. Stegmeier, R. Jahr, M. Gerdes, P. Zaykov, L. Matusova, Z. J. Jia Li, Z. Petrov, B. Boddeker, S. Kehr, H. Regler, A. Hugl, C. Rochange, H. Ozaktas, H. Casse, A. Bonenfant, P. Sainrat, N. Lay, D. George, I. Broster, E. Quinones, M. Panic, J. Abella, C. Hernandez, F. Cazorla, S. Uhrig, M. Rohde, and A. Pyka<br>
