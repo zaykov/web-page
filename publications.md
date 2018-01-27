@@ -133,4 +133,4 @@ In proc. of the Computer Systems and Technologies conference (CompSysTech), June
 <a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, J. Smith, and J. Kubalcik<br>
-US 20160247081 A1, Aug 2016.
+US 20160247081 A1, August 2016.
