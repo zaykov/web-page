@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Most of my productive time I spend with <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, Advanced Technology. I am part of a team doing research, building prototypes, and collaborating with European research institutes on performance-efficient models, tools, and methods for the future aerospace computing platforms.
+Most of my productive time I spend with <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, Advanced Technology. I am part of a team doing research, building prototypes, and collaborating with European research institutes on performance-efficient RTOS services, tools, and models for the future aerospace computing platforms.
 
 ## Research Interests
 * Embedded System Design 
