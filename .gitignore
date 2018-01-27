@@ -1,7 +1,8 @@
 _site
 .DS_Store
-*.sublime-project
-*.sublime-workspace
-codekit-config.json
+.jekyll
+.jekyll-metadata
+.bundle
+package.json
 node_modules
 .sass-cache
