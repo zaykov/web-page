@@ -1,16 +1,6 @@
 ---
 layout: page
-title: Publications
-excerpt: "A List of Publications"
-search_omit: true
-image:
-  feature: aero-2.jpg
-  credit: Honeywell
-  creditlink: http://aerospace.honeywell.com/
-comments: false
 ---
-**Please note:** <span style="color: DarkRed">This page contains links to PDF files of articles that may be covered by copyright.</span> You may browse the articles at your convenience. (In the same spirit as you may read a journal or a proceeding article in a public library). Retrieving, copying, or distributing these files, however, may violate the copyright protection law. We recommend that the user abides international law in accessing this article list.
-{: .notice}
 
 ## Dissertation
 * **Multithreading for Embedded Reconfigurable Multicore Systems**
@@ -135,3 +125,11 @@ CE technical report, 2009.
 <br>
 P. Zaykov <br>
 In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
+
+## Patent applications
+1. **Worst-Case Execution Time Statistical Tool**
+<a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20160247081.PGNR." target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. G. Zaykov, J. Smith, and J. Kubalcik<br>
+US 20160247081 A1, Aug 2016.
