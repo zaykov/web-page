@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Pavel works as a Senior Scientist in the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czechia. He leads projects, generates Intelectual Property, builds a proof of concept designs, and collaborates with internal stakeholders (company's business units) and external beneficiaries (EU research institutes and international funding agencies). He is part of a team that brings innovations at the level of the computing platforms, RTOS, and tools. The goal of the innovations is to improve the guaranteed performance, lower the energy profile, and easy the programmability of the future aerospace platforms.
+Pavel works as a Senior Scientist in the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czech Republic. He leads projects, generates Intellectual Property, builds a proof of concept designs, and collaborates with internal and external stakeholders. He is part of a team that brings innovations at the level of the computing platforms, RTOS, and tools. The goals of the innovations are to improve the guaranteed performance, lower the energy profile, and easy the programmability of the future aerospace platforms.
 
 ## Research Interests
 * Embedded System Design 
