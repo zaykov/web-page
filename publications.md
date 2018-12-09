@@ -12,6 +12,13 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
+1. **Worst-Case Measurement-Based Statistical Tool**
+<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. G. Zaykov, J. Kubalcik <br>
+In proc. of the Aerospace Conference (AeroConf), March 2019.
+
 1. **RTOS Acceleration in an MPSoC with Reconfigurable Hardware**
 <a href="http://dx.doi.org/10.1016/j.compeleceng.2016.03.016" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2016-caee.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
@@ -128,6 +135,14 @@ P. Zaykov <br>
 In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
 
 ## Patent applications
+1. **Memory partitioning for a computing system with memory pools**
+<a href="" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L.Matusova<br>
+US 20180239709 A1, August 2018.
+
+
 1. **Worst-Case Execution Time Statistical Tool**
 <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20160247081.PGNR." target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
