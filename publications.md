@@ -136,10 +136,10 @@ In proc. of the Computer Systems and Technologies conference (CompSysTech), June
 
 ## Patent applications
 1. **Memory partitioning for a computing system with memory pools**
-<a href="" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="http://www.freepatentsonline.com/20180239709.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2018-mempools.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. Zaykov, L.Matusova<br>
+P. Zaykov, L. Matusova<br>
 US 20180239709 A1, August 2018.
 
 
@@ -149,3 +149,5 @@ US 20180239709 A1, August 2018.
 <br>
 P. G. Zaykov, J. Smith, and J. Kubalcik<br>
 US 20160247081 A1, August 2016.
+
+
