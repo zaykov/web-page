@@ -12,7 +12,7 @@ Pavel works as a Principal Scientist at the Advanced Technology Department of <a
 * Systems-on-Chip
 
 ## Work
-2018 - Currently - Principal Scientist R&D - Honeywell Aerospace <br>
+2018 - Present - Principal Scientist R&D - Honeywell Aerospace <br>
 2014 - 2018 - Senior Scientist R&D - Honeywell Aerospace <br>
 2012 - 2014 - Scientist R&D - Honeywell Aerospace <br>
 2007 - 2012 - Research Assistant - TU Delft <br>
