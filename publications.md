@@ -143,6 +143,14 @@ P. Zaykov, L. Matusova<br>
 US 20180239709 A1, August 2018.
 
 
+1. **Apparatuses and methods for determining efficient memory partitioning**
+<a href="http://www.freepatentsonline.com/20190179756.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2017-mempart.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. Matusova<br>
+US 10366007B2, December 2017.
+
+
 1. **Worst-Case Execution Time Statistical Tool**
 <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20160247081.PGNR." target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
