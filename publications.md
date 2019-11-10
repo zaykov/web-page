@@ -5,16 +5,16 @@ title: Publications
 
 ## Dissertation
 * **Multithreading for Embedded Reconfigurable Multicore Systems**
-<a href="https://doi.org/10.1109/AERO.2019.8741824" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2019-aeroconf.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="http://dx.doi.org/10.4233/uuid:b619e7d6-3df5-40ee-8108-ea7411ffeda7" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2014-thesis.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
 1. **Worst-Case Measurement-Based Statistical Tool**
-<a href="http://dx.doi.org/10.1016/j.compeleceng.2016.03.016" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2016-caee.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="https://doi.org/10.1109/AERO.2019.8741824" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2019-aeroconf.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, J. Kubalcik <br>
 In proc. of the Aerospace Conference (AeroConf), March 2019.
