@@ -147,7 +147,7 @@ In proc. of the Computer Systems and Technologies conference (CompSysTech), June
 <a href="{{ site.url }}/publications/bib/zaykov-2019-ratelimit.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 S. Varadarajan, L. J. Miller, Ch. Kashiwar, P. Zaykov<br>
-US 10366007B2, September 2019.
+US 20190294472, September 2019.
 
 
 1. **Apparatuses and methods for determining efficient memory partitioning**
@@ -155,7 +155,7 @@ US 10366007B2, September 2019.
 <a href="{{ site.url }}/publications/bib/zaykov-2019-mempart.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, L. Matusova<br>
-US 10366007B2, June 2019.
+US 20190179756, June 2019.
 
 
 1. **Memory partitioning for a computing system with memory pools**
