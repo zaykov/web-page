@@ -12,7 +12,7 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
-1. **Worst-Case Measurement-Based Statistical Tool**
+1. **mcQEMU: Time-Accurate Simulation of Multi-core platforms using QEMU**
 <a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2020-dsd-mcqemu.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
