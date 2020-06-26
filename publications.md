@@ -13,10 +13,17 @@ PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
 1. **Worst-Case Measurement-Based Statistical Tool**
+<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2020-dsd-mcqemu.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+H. Carvalho, G. Nelissen, and P. Zaykov <br>
+In proc. of the Euromicro Conference on Digital System Design (DSD), August 2020.
+
+1. **Worst-Case Measurement-Based Statistical Tool**
 <a href="https://doi.org/10.1109/AERO.2019.8741824" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2019-aeroconf.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. G. Zaykov, J. Kubalcik <br>
+P. G. Zaykov and J. Kubalcik <br>
 In proc. of the Aerospace Conference (AeroConf), March 2019.
 
 1. **RTOS Acceleration in an MPSoC with Reconfigurable Hardware**
