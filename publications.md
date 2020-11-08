@@ -12,6 +12,14 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
+1. **Testbed for thermal and performance analysis in MPSoC systems**
+<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2020-fedcsis.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+M. Sojka, O. Benedikt, Z. Hanzalek, and P. Zaykov, <br>
+In proc. of the Conference on Computer Science and Information Systems (FedCSIS), September 2020.
+
+
 1. **mcQEMU: Time-Accurate Simulation of Multi-core platforms using QEMU**
 <a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2020-dsd-mcqemu.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
