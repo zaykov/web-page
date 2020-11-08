@@ -19,6 +19,12 @@ PhD thesis, Delft University of Technology, 2014.
 M. Sojka, O. Benedikt, Z. Hanzalek, and P. Zaykov, <br>
 In proc. of the Conference on Computer Science and Information Systems (FedCSIS), September 2020.
 
+1. **Compact Computing Platform for Future General Aviation**
+<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2020-easn.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, J. Beran, P. Axman<br>
+In proc. of the EASN conference, September 2020.
 
 1. **mcQEMU: Time-Accurate Simulation of Multi-core platforms using QEMU**
 <a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
@@ -26,6 +32,7 @@ In proc. of the Conference on Computer Science and Information Systems (FedCSIS)
 <br>
 H. Carvalho, G. Nelissen, and P. Zaykov <br>
 In proc. of the Euromicro Conference on Digital System Design (DSD), August 2020.
+
 
 1. **Worst-Case Measurement-Based Statistical Tool**
 <a href="https://doi.org/10.1109/AERO.2019.8741824" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
