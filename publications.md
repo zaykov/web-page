@@ -159,7 +159,7 @@ In proc. of the Computer Systems and Technologies conference (CompSysTech), June
 ## Patent applications
 
 1. **System and methods for contingency budgeting for time-partitioned systems**
-<a href="https://www.freepatentsonline.com/20200371840.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="https://www.freepatentsonline.com/20200371840.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2020-contingency.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, L. J. Miller, S. Varadarajan, Ch. Kashiwar<br>
@@ -167,7 +167,7 @@ US 20200371840A1, September 2019.
 
 
 1. **Systems and methods for variable rate limiting of shared resource access**
-<a href="https://www.freepatentsonline.com/20190294472.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="https://www.freepatentsonline.com/20190294472.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2019-ratelimit.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 S. Varadarajan, L. J. Miller, Ch. Kashiwar, P. Zaykov<br>
@@ -175,7 +175,7 @@ US 20190294472, September 2019.
 
 
 1. **Apparatuses and methods for determining efficient memory partitioning**
-<a href="https://www.freepatentsonline.com/20190179756.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="https://www.freepatentsonline.com/20190179756.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2019-mempart.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, L. Matusova<br>
@@ -183,7 +183,7 @@ US 20190179756, June 2019.
 
 
 1. **Memory partitioning for a computing system with memory pools**
-<a href="https://www.freepatentsonline.com/20180239709.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="https://www.freepatentsonline.com/20180239709.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2018-mempools.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, L. Matusova<br>
@@ -191,7 +191,7 @@ US 20180239709 A1, August 2018.
 
 
 1. **Worst-Case Execution Time Statistical Tool**
-<a href="https://www.freepatentsonline.com/20160247081.pdf" target_blank> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="https://www.freepatentsonline.com/20160247081.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, J. Smith, and J. Kubalcik<br>
