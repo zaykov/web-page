@@ -12,19 +12,19 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
+1. **Compact Computing Platform for Future General Aviation in the COAST project**
+<a href="https://doi.org/10.1088/1757-899X/1024/1/012088" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2021-easn.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, J. Beran, P. Axman<br>
+In proc. of the EASN conference, January 2021.
+
 1. **Testbed for thermal and performance analysis in MPSoC systems**
 <a href="https://doi.org/10.15439/2020F174" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2020-fedcsis.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 M. Sojka, O. Benedikt, Z. Hanzalek, and P. Zaykov, <br>
 In proc. of the Conference on Computer Science and Information Systems (FedCSIS), September 2020.
-
-1. **Compact Computing Platform for Future General Aviation**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2020-easn.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-P. Zaykov, J. Beran, P. Axman<br>
-In proc. of the EASN conference, September 2020.
 
 1. **mcQEMU: Time-Accurate Simulation of Multi-core platforms using QEMU**
 <a href="https://doi.org/10.1109/DSD51259.2020.00024" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
