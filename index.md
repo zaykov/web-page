@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Pavel works as a Lead Scientist at the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czech Republic. He manages projects, generates IP, architects proof of concept designs, and actively collaborates with internal and external stakeholders. He innovates in the area of AI safety, computing platforms, RTOS, tools, and applications.
+Pavel works as a Lead Scientist at the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czech Republic. He leads projects, generates IP, architects proof of concept designs, and actively collaborates with internal and external stakeholders. He innovates in the area of AI safety, computing platforms, RTOS, tools, and applications.
 <!--- The goals of the innovations are to improve the guaranteed performance, lower the energy profile, and easy the programmability of the future aerospace platforms. --->
 
 ## Research Interests
