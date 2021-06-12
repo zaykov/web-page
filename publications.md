@@ -17,8 +17,7 @@ PhD thesis, Delft University of Technology, 2014.
 <a href="{{ site.url }}/publications/bib/zaykov-2021-easn.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, J. Beran, P. Axman<br>
-In proc. of the Innovation in Aviation & Space to the Satisfaction of the European Citizens (
-) conference, January 2021.
+In proc. of the Innovation in Aviation & Space to the Satisfaction of the European Citizens (EASN) conference, January 2021.
 
 1. **Testbed for thermal and performance analysis in MPSoC systems**
 <a href="https://doi.org/10.15439/2020F174" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
