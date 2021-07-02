@@ -12,11 +12,19 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
+1. **Thermal-aware scheduling for MPSoC in the avionics domain: Tooling and initial results**
+<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2021-rtcsa.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+O. Benedikt, M. Sojka, P. Zaykov, D. Hornof, M. Kafka, P. Šůcha, and Z. Hanzálek<br>
+In proc. of the Embedded and Real-Time Computing Systems and Applications (RTCSA), August 2021.
+
+
 1. **Compact Computing Platform for Future General Aviation in the COAST project**
 <a href="https://doi.org/10.1088/1757-899X/1024/1/012088" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2021-easn.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. Zaykov, J. Beran, P. Axman<br>
+P. Zaykov, J. Beran, and P. Axman<br>
 In proc. of the Innovation in Aviation & Space to the Satisfaction of the European Citizens (EASN) conference, January 2021.
 
 1. **Testbed for thermal and performance analysis in MPSoC systems**
