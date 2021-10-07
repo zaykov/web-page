@@ -12,8 +12,8 @@ P. G. Zaykov<br>
 PhD thesis, Delft University of Technology, 2014.
 
 ## Journals & Conference Papers
-1. **Thermal-aware scheduling for MPSoC in the avionics domain: Tooling and initial results**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+1. **Thermal-aware scheduling for MPSoC in the avionics domain: Tooling and initial results (best-paper)**
+<a href="https://doi.org/10.1109/RTCSA52859.2021.00026" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2021-rtcsa.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 O. Benedikt, M. Sojka, P. Zaykov, D. Hornof, M. Kafka, P. Šůcha, and Z. Hanzálek<br>
