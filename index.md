@@ -3,10 +3,9 @@ layout: page
 ---
 
 Pavel works as a Lead Scientist at the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czechia. He leads projects, generates IP, architects proof of concept designs, and actively collaborates with internal and external stakeholders. He innovates in the area of AI safety, computing platforms, RTOS, tools, and applications. His contributions improved performance, guranteed real-time, preserved safety, and reduced development costs.
-<!--- The goals of the innovations are to improve the guaranteed performance, lower the energy profile, and easy the programmability of the future aerospace platforms. --->
 
 ## Research Interests
-* AI Safety
+* Edge AI computing
 * Real-Time Systems 
 * Heterogenous Computing
 * SW and HW architectures
