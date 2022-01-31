@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Pavel works as a Lead Scientist at the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czechia. He leads projects, generates IP, architects proof of concept designs, and actively collaborates with internal and external stakeholders. He innovates in the area of edge AI computing, RTOS, tools, and applications. His contributions improved performance, guranteed real-time, preserved safety, and reduced development costs.
+Pavel works as a Lead Scientist at the Advanced Technology Department of <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a>, located in Brno, Czechia. He leads projects, generates IP, architects proof of concept designs, and actively collaborates with internal and external stakeholders. He innovates in the area of edge AI computing, RTOS, tools, and applications. His contributions improved performance, guaranteed real-time, preserved safety, and reduced development costs.
 
 ## Research Interests
 * Edge AI computing
@@ -20,5 +20,5 @@ Pavel works as a Lead Scientist at the Advanced Technology Department of <a href
 
 ## Education
 2007 - 2014 - PhD - Computer Engineering - TU Delft <br>
-2005 - 2007 - MSc - Computer Systems Technology - TU Sofia <br>
+2005 - 2007 - MSc - Computer Systems and Technologies - TU Sofia <br>
 
