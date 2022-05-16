@@ -166,6 +166,13 @@ P. Zaykov <br>
 In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
 
 ## Patent applications
+1. **Input/output device operational modes for a system with memory pools**
+<a href="https://www.freepatentsonline.com/20210133088.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2022-io.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. J. Miller<br>
+US US20220138131A1, May 2022.
+
 1. **Systems and methods for simulating worst-case contention to determine worst-case execution time of applications executed on a processor**
 <a href="https://www.freepatentsonline.com/20210133088.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2021-cmt.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
