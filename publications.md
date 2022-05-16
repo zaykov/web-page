@@ -167,7 +167,7 @@ In proc. of the Computer Systems and Technologies conference (CompSysTech), June
 
 ## Patent applications
 1. **Input/output device operational modes for a system with memory pools**
-<a href="https://www.freepatentsonline.com/20210133088.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="https://www.freepatentsonline.com/20220138131.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2022-io.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, L. J. Miller<br>
