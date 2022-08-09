@@ -158,21 +158,21 @@ In the Elsevier Microprocessors and Microsystems (MICPRO), May 2012.
 <a href="http://dx.doi.org/10.1007/978-3-642-19475-7_38" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2011-arc.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. G. Zaykov and G.K. Kuzmanov<br>
+P. G. Zaykov and G. K. Kuzmanov<br>
 In proc. of the Applied Reconfigurable Computing conference (ARC), March 2011.
  
 1. **Reconfigurable Multithreading Architectures: A Survey**
 <a href="http://dx.doi.org/10.1007/978-3-642-03138-0_29" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2009-samos.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. G. Zaykov, G.K. Kuzmanov, and G.N. Gaydadjiev<br>
+P. G. Zaykov, G. K. Kuzmanov, and G.N. Gaydadjiev<br>
 In proc. of the Workshop on Embedded Computer Systems: Architectures, Modeling, and Simulation (SAMOS), July 2009.
 
 1. **State-of-the-art Reconfigurable Multithreading Architectures**
 <a href="http://ce-publications.et.tudelft.nl/publication/view/id/361" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2009-report.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. G. Zaykov, G.K. Kuzmanov, and G.N. Gaydadjiev<br>
+P. G. Zaykov, G. K. Kuzmanov, and G.N. Gaydadjiev<br>
 CE technical report, 2009.
 
 1. **MIMD implementation with PicoBlaze microprocessor using MPI functions**
