@@ -23,7 +23,7 @@ In proc. of the Embedded and Real-Time Computing Systems and Applications (RTCSA
 
 1. **Leveraging the HW/SW Optimizations and Ecosystems that Drive the AI Revolution**
 <a href="https://doi.org/10.48550/arXiv.2208.02808" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2022-ai-optimization target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2022-ai-optimization" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 H. Carvalho, P. Zaykov, A. Ukaye<br>
 ArXiv, August 2022.
