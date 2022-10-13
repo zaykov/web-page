@@ -14,11 +14,11 @@ PhD thesis, Delft University of Technology, 2014.
 ## Journals & Conference Papers
 
 1. **IP Core for Cache and Memory Thrashing**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="https://doi.org/10.1109/RTCSA55878.2022.00011" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2022-ipcmt.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 M. Dobes, P. Zaykov, L. Miller, P. Badin, S. Varadarajan<br>
-In proc. of the Embedded and Real-Time Computing Systems and Applications (RTCSA) (accepted), August 2022.
+In proc. of the Embedded and Real-Time Computing Systems and Applications (RTCSA), August 2022.
 
 
 1. **Leveraging the HW/SW Optimizations and Ecosystems that Drive the AI Revolution**
