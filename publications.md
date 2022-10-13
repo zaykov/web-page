@@ -3,13 +3,60 @@ layout: page
 title: Publications
 ---
 
-## Dissertation
-* **Multithreading for Embedded Reconfigurable Multicore Systems**
-<a href="http://dx.doi.org/10.4233/uuid:b619e7d6-3df5-40ee-8108-ea7411ffeda7" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2014-thesis.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+## Patent applications
+1. **Input/output device operational modes for a system with memory pools**
+<a href="https://www.freepatentsonline.com/20220138131.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2022-io.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. G. Zaykov<br>
-PhD thesis, Delft University of Technology, 2014.
+P. Zaykov, L. J. Miller<br>
+US US20220138131A1, May 2022.
+
+1. **Systems and methods for simulating worst-case contention to determine worst-case execution time of applications executed on a processor**
+<a href="https://www.freepatentsonline.com/20210133088.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2021-cmt.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. J. Miller, S. Varadarajan<br>
+US 20210133088A1, May 2021.
+
+
+1. **System and methods for contingency budgeting for time-partitioned systems**
+<a href="https://www.freepatentsonline.com/20200371840.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2020-contingency.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. J. Miller, S. Varadarajan, Ch. Kashiwar<br>
+US 20200371840A1, September 2019.
+
+
+1. **Systems and methods for variable rate limiting of shared resource access**
+<a href="https://www.freepatentsonline.com/20190294472.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2019-ratelimit.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+S. Varadarajan, L. J. Miller, Ch. Kashiwar, P. Zaykov<br>
+US 20190294472, September 2019.
+
+
+1. **Apparatuses and methods for determining efficient memory partitioning**
+<a href="https://www.freepatentsonline.com/20190179756.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2019-mempart.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. Matusova<br>
+US 20190179756, June 2019.
+
+
+1. **Memory partitioning for a computing system with memory pools**
+<a href="https://www.freepatentsonline.com/20180239709.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2018-mempools.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. Matusova<br>
+US 20180239709 A1, August 2018.
+
+
+1. **Worst-Case Execution Time Statistical Tool**
+<a href="https://www.freepatentsonline.com/20160247081.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. G. Zaykov, J. Smith, and J. Kubalcik<br>
+US 20160247081 A1, August 2016.
 
 ## Journals & Conference Papers
 
@@ -182,59 +229,12 @@ CE technical report, 2009.
 P. Zaykov <br>
 In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
 
-## Patent applications
-1. **Input/output device operational modes for a system with memory pools**
-<a href="https://www.freepatentsonline.com/20220138131.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2022-io.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+
+
+## Dissertation
+* **Multithreading for Embedded Reconfigurable Multicore Systems**
+<a href="http://dx.doi.org/10.4233/uuid:b619e7d6-3df5-40ee-8108-ea7411ffeda7" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2014-thesis.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. Zaykov, L. J. Miller<br>
-US US20220138131A1, May 2022.
-
-1. **Systems and methods for simulating worst-case contention to determine worst-case execution time of applications executed on a processor**
-<a href="https://www.freepatentsonline.com/20210133088.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2021-cmt.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-P. Zaykov, L. J. Miller, S. Varadarajan<br>
-US 20210133088A1, May 2021.
-
-
-1. **System and methods for contingency budgeting for time-partitioned systems**
-<a href="https://www.freepatentsonline.com/20200371840.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2020-contingency.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-P. Zaykov, L. J. Miller, S. Varadarajan, Ch. Kashiwar<br>
-US 20200371840A1, September 2019.
-
-
-1. **Systems and methods for variable rate limiting of shared resource access**
-<a href="https://www.freepatentsonline.com/20190294472.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2019-ratelimit.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-S. Varadarajan, L. J. Miller, Ch. Kashiwar, P. Zaykov<br>
-US 20190294472, September 2019.
-
-
-1. **Apparatuses and methods for determining efficient memory partitioning**
-<a href="https://www.freepatentsonline.com/20190179756.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2019-mempart.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-P. Zaykov, L. Matusova<br>
-US 20190179756, June 2019.
-
-
-1. **Memory partitioning for a computing system with memory pools**
-<a href="https://www.freepatentsonline.com/20180239709.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2018-mempools.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-P. Zaykov, L. Matusova<br>
-US 20180239709 A1, August 2018.
-
-
-1. **Worst-Case Execution Time Statistical Tool**
-<a href="https://www.freepatentsonline.com/20160247081.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
-<br>
-P. G. Zaykov, J. Smith, and J. Kubalcik<br>
-US 20160247081 A1, August 2016.
-
-
+P. G. Zaykov<br>
+PhD thesis, Delft University of Technology, 2014.

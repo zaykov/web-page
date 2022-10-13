@@ -2,17 +2,17 @@
 layout: page
 ---
 
-In April 2022, I have joined <a href="https://codasip.com/" target="_blank">Codasip</a> as Lead Innovation & Research Engineer. My focus will be on the next wave of computing in the context of RISC-V architectures, domain-specific acceleration, and supporting tooling.
+In 2022, I joined <a href="https://codasip.com/" target="_blank">Codasip</a> as Lead Innovation & Research Engineer. My technical focus is on the next wave of innovation in the context of RISC-V architectures, AI/ML and domain-specific acceleration, and supporting tooling. I am also responsible for creating and maintaining technical roadmaps, leading a team, handling the Codasip contribution in  Grant proposal preparations and Horizon Europe projects, and interfacing with academic and industrial partners.
 
 From 2012 to 2022, I was Lead Scientist at <a href="http://aerospace.honeywell.com/" target="_blank">Honeywell Aerospace</a> where I was responsible for multiple internal and external (FP7/ H2020) projects that brought concepts to prototypes and later transitioned them to products. I was developing technical roadmaps, leading a team, generating patents and papers, architecting proof of concept designs, and actively collaborating with academia in the area of multi-cores, edge AI computing, RTOS, tools, and application customization. My contributions improved performance, guaranteed real-time properties, preserved safety, and reduced development costs.
 
 
 
 ## Research Interests
+* Computer Architectures
 * Edge AI computing
 * Real-Time Systems 
-* Heterogenous Computing
-* SW and HW architectures
+
 
 
 ## Experience
