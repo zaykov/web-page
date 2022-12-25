@@ -5,6 +5,12 @@ title: Publications
 
 ## Journals & Conference Papers
 
+1. **NimbleAI: Towards Next-generation Integrated Sensing-Processing Neuromorphic Endpoint Devices**
+<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+X. Iturbe et al.<br>
+In proc. of the International Conference on Design, Automation and Test in Europe (DATE), April 2023 (accepted).
 
 1. **A Thermal-Aware Approach for DVFS-Enabled Multi-Core Architectures**
 <a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
