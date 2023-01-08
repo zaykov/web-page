@@ -195,7 +195,7 @@ In proc. of the Computer Systems and Technologies conference (CompSysTech), June
 <a href="{{ site.url }}/publications/bib/zaykov-2022-preempt.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 L. J. Miller, P. Zaykov<br>
-US US20220382610A1, Dec 2022.
+US US20220382610A1, December 2022.
 
 1. **Input/output device operational modes for a system with memory pools**
 <a href="https://www.freepatentsonline.com/20220138131.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
