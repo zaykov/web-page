@@ -13,11 +13,11 @@ X. Iturbe et al.<br>
 In proc. of the International Conference on Design, Automation and Test in Europe (DATE), April 2023 (accepted).
 
 1. **A Thermal-Aware Approach for DVFS-Enabled Multi-Core Architectures**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
-<a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00286" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2022-thermal.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 J. P. Rodriguez, P. M. Yomsi, P. Zaykov<br>
-In proc. of the International Conference on Embedded Software and Systems (ICESS), December 2022 (accepted).
+In proc. of the International Conference on Embedded Software and Systems (ICESS), December 2022.
 
 1. **IP Core for Cache and Memory Thrashing**
 <a href="https://doi.org/10.1109/RTCSA55878.2022.00011" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
