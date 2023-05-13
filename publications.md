@@ -189,20 +189,27 @@ P. Zaykov <br>
 In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
 
 ## Patent applications
+1. **Systems and methods for regulating memory utilization for coprocessors**
+<a href="https://www.freepatentsonline.com/20230111174.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2023-coproc.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, H. Carvalho, L. J. Miller<br>
+US 20230111174A1, April 2023.
+
 
 1. **Systems and methods for margin based diagnostic tools for priority preemptive schedulers**
 <a href="https://www.freepatentsonline.com/20220382610.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2022-preempt.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 L. J. Miller, P. Zaykov<br>
-US US20220382610A1, December 2022.
+US 20220382610A1, December 2022.
 
 1. **Input/output device operational modes for a system with memory pools**
 <a href="https://www.freepatentsonline.com/20220138131.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2022-io.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. Zaykov, L. J. Miller<br>
-US US20220138131A1, May 2022.
+US 20220138131A1, May 2022.
 
 1. **Systems and methods for simulating worst-case contention to determine worst-case execution time of applications executed on a processor**
 <a href="https://www.freepatentsonline.com/20210133088.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
