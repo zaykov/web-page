@@ -275,9 +275,9 @@ US 20180239709 A1, August 2018.
 
 1. **Worst-Case Execution Time Statistical Tool**
 <a href="https://www.freepatentsonline.com/20160247081.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2016-upsto.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2016-wcet.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
-P. G. Zaykov, J. Smith, and J. Kubalcik<br>
+P. G. Zaykov, J. Smid, and J. Kubalcik<br>
 US 20160247081 A1, August 2016.
 
 ## Dissertation
