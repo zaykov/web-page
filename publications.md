@@ -189,6 +189,28 @@ P. Zaykov <br>
 In proc. of the Computer Systems and Technologies conference (CompSysTech), June 2007.
 
 ## Patent applications
+
+1. **Processing engine scheduling for time-space partitioned processing systems**
+<a href="https://www.freepatentsonline.com/20230305887.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2023-pe-sched.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. J. Miller, H. Carvalho, S. Varadarajan<br>
+US 20230305887A1, Sept 2023.
+
+1. **Processing engine mapping for time-space partitioned processing systems**
+<a href="https://www.freepatentsonline.com/20230305888.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2023-pe-map.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, L. J. Miller, H. Carvalho, S. Varadarajan<br>
+US 20230305888A1, Sept 2023.
+
+1. **Systems and method for thermal management of computing systems**
+<a href="https://www.freepatentsonline.com/20230305906.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2023-thermal.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+P. Zaykov, P. Mathia<br>
+US 20230305906A1, Sept 2023.
+
 1. **Systems and methods for regulating memory utilization for coprocessors**
 <a href="https://www.freepatentsonline.com/20230111174.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
 <a href="{{ site.url }}/publications/bib/zaykov-2023-coproc.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
