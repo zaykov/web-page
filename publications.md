@@ -5,12 +5,20 @@ title: Publications
 
 ## Journals & Conference Papers
 
-1. **NimbleAI: Towards Next-generation Integrated Sensing-Processing Neuromorphic Endpoint Devices**
-<a href="" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+
+1. **Invited: Neuromorphic Vision Modalities in the NimbleAI 3D Chip**
+<a href="https://www.nimbleai.eu/wp-content/uploads/2024/07/DAC24_NimbleAI.pdf" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
 <a href="" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 X. Iturbe et al.<br>
-In proc. of the International Conference on Design, Automation and Test in Europe (DATE), April 2023 (accepted).
+In proc. of the Design Automation Conference (DAC), July 2024.
+
+1. **NimbleAI: Towards Next-generation Integrated Sensing-Processing Neuromorphic Endpoint Devices**
+<a href="https://doi.org/10.23919/DATE56975.2023.10136952" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2023-nimbleai.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<br>
+X. Iturbe et al.<br>
+In proc. of the International Conference on Design, Automation and Test in Europe (DATE), April 2023.
 
 1. **A Thermal-Aware Approach for DVFS-Enabled Multi-Core Architectures**
 <a href="https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00286" target="_blank"><img src="{{ site.url }}/images/pdf.png"></a>
@@ -275,7 +283,7 @@ US 20180239709 A1, August 2018.
 
 1. **Worst-Case Execution Time Statistical Tool**
 <a href="https://www.freepatentsonline.com/20160247081.pdf" target="_blank"> <img src="{{ site.url }}/images/pdf.png"></a>
-<a href="{{ site.url }}/publications/bib/zaykov-2016-wcet.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
+<a href="{{ site.url }}/publications/bib/zaykov-2016-wcet	.bib" target="_blank"><img src="{{ site.url }}/images/bibtex.png"></a>
 <br>
 P. G. Zaykov, J. Smid, and J. Kubalcik<br>
 US 20160247081 A1, August 2016.
